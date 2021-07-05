@@ -1,0 +1,853 @@
+Version 1 30 Research Title : GetRandomVehicleInSphere flags results By Negbook
+Total:38 Flags:12294 
+{
+	Item
+	{
+		IsThisModelATrain 0
+		model 788747387
+		class 15
+		IsThisModelABicycle 0
+		IsThisModelAPlane 0
+		IsThisModelACar 0
+		type 2
+		poptype 7
+		IsThisModelAnAmphibiousQuadbike 0
+		displaynamefrommodel BUZZARD
+		IsThisModelAnAmphibiousCar 0
+		isenginerunning 0
+		isempty 0
+		IsThisModelAJetski 0
+		IsThisModelAHeli 1
+		IsThisModelAQuadbike 0
+		IsThisModelABike 0
+		classfromname 15
+		IsThisModelABoat 0
+	}
+	Item
+	{
+		IsThisModelATrain 0
+		model 745926877
+		class 15
+		IsThisModelABicycle 0
+		IsThisModelAPlane 0
+		IsThisModelACar 0
+		type 2
+		poptype 7
+		IsThisModelAnAmphibiousQuadbike 0
+		displaynamefrommodel BUZZARD2
+		IsThisModelAnAmphibiousCar 0
+		isenginerunning 0
+		isempty 0
+		IsThisModelAJetski 0
+		IsThisModelAHeli 1
+		IsThisModelAQuadbike 0
+		IsThisModelABike 0
+		classfromname 15
+		IsThisModelABoat 0
+	}
+	Item
+	{
+		IsThisModelATrain 0
+		model -50547061
+		class 15
+		IsThisModelABicycle 0
+		IsThisModelAPlane 0
+		IsThisModelACar 0
+		type 2
+		poptype 7
+		IsThisModelAnAmphibiousQuadbike 0
+		displaynamefrommodel CARGOBOB
+		IsThisModelAnAmphibiousCar 0
+		isenginerunning 0
+		isempty 0
+		IsThisModelAJetski 0
+		IsThisModelAHeli 1
+		IsThisModelAQuadbike 0
+		IsThisModelABike 0
+		classfromname 15
+		IsThisModelABoat 0
+	}
+	Item
+	{
+		IsThisModelATrain 0
+		model 1621617168
+		class 15
+		IsThisModelABicycle 0
+		IsThisModelAPlane 0
+		IsThisModelACar 0
+		type 2
+		poptype 7
+		IsThisModelAnAmphibiousQuadbike 0
+		displaynamefrommodel CARGOBOB
+		IsThisModelAnAmphibiousCar 0
+		isenginerunning 0
+		isempty 0
+		IsThisModelAJetski 0
+		IsThisModelAHeli 1
+		IsThisModelAQuadbike 0
+		IsThisModelABike 0
+		classfromname 15
+		IsThisModelABoat 0
+	}
+	Item
+	{
+		IsThisModelATrain 0
+		model 1394036463
+		class 15
+		IsThisModelABicycle 0
+		IsThisModelAPlane 0
+		IsThisModelACar 0
+		type 2
+		poptype 7
+		IsThisModelAnAmphibiousQuadbike 0
+		displaynamefrommodel CARGOBOB
+		IsThisModelAnAmphibiousCar 0
+		isenginerunning 0
+		isempty 0
+		IsThisModelAJetski 0
+		IsThisModelAHeli 1
+		IsThisModelAQuadbike 0
+		IsThisModelABike 0
+		classfromname 15
+		IsThisModelABoat 0
+	}
+	Item
+	{
+		IsThisModelATrain 0
+		model 1044954915
+		class 15
+		IsThisModelABicycle 0
+		IsThisModelAPlane 0
+		IsThisModelACar 0
+		type 2
+		poptype 7
+		IsThisModelAnAmphibiousQuadbike 0
+		displaynamefrommodel SKYLIFT
+		IsThisModelAnAmphibiousCar 0
+		isenginerunning 0
+		isempty 0
+		IsThisModelAJetski 0
+		IsThisModelAHeli 1
+		IsThisModelAQuadbike 0
+		IsThisModelABike 0
+		classfromname 15
+		IsThisModelABoat 0
+	}
+	Item
+	{
+		IsThisModelATrain 0
+		model -1660661558
+		class 15
+		IsThisModelABicycle 0
+		IsThisModelAPlane 0
+		IsThisModelACar 0
+		type 2
+		poptype 7
+		IsThisModelAnAmphibiousQuadbike 0
+		displaynamefrommodel MAVERICK
+		IsThisModelAnAmphibiousCar 0
+		isenginerunning 0
+		isempty 0
+		IsThisModelAJetski 0
+		IsThisModelAHeli 1
+		IsThisModelAQuadbike 0
+		IsThisModelABike 0
+		classfromname 15
+		IsThisModelABoat 0
+	}
+	Item
+	{
+		IsThisModelATrain 0
+		model 744705981
+		class 15
+		IsThisModelABicycle 0
+		IsThisModelAPlane 0
+		IsThisModelACar 0
+		type 2
+		poptype 7
+		IsThisModelAnAmphibiousQuadbike 0
+		displaynamefrommodel FROGGER
+		IsThisModelAnAmphibiousCar 0
+		isenginerunning 0
+		isempty 0
+		IsThisModelAJetski 0
+		IsThisModelAHeli 1
+		IsThisModelAQuadbike 0
+		IsThisModelABike 0
+		classfromname 15
+		IsThisModelABoat 0
+	}
+	Item
+	{
+		IsThisModelATrain 0
+		model 1949211328
+		class 15
+		IsThisModelABicycle 0
+		IsThisModelAPlane 0
+		IsThisModelACar 0
+		type 2
+		poptype 7
+		IsThisModelAnAmphibiousQuadbike 0
+		displaynamefrommodel FROGGER
+		IsThisModelAnAmphibiousCar 0
+		isenginerunning 0
+		isempty 0
+		IsThisModelAJetski 0
+		IsThisModelAHeli 1
+		IsThisModelAQuadbike 0
+		IsThisModelABike 0
+		classfromname 15
+		IsThisModelABoat 0
+	}
+	Item
+	{
+		IsThisModelATrain 0
+		model 400514754
+		class 14
+		IsThisModelABicycle 0
+		IsThisModelAPlane 0
+		IsThisModelACar 0
+		type 2
+		poptype 7
+		IsThisModelAnAmphibiousQuadbike 0
+		displaynamefrommodel SQUALO
+		IsThisModelAnAmphibiousCar 0
+		isenginerunning 1
+		isempty 0
+		IsThisModelAJetski 0
+		IsThisModelAHeli 0
+		IsThisModelAQuadbike 0
+		IsThisModelABike 0
+		classfromname 14
+		IsThisModelABoat 1
+	}
+	Item
+	{
+		IsThisModelATrain 0
+		model -1043459709
+		class 14
+		IsThisModelABicycle 0
+		IsThisModelAPlane 0
+		IsThisModelACar 0
+		type 2
+		poptype 7
+		IsThisModelAnAmphibiousQuadbike 0
+		displaynamefrommodel MARQUIS
+		IsThisModelAnAmphibiousCar 0
+		isenginerunning 1
+		isempty 0
+		IsThisModelAJetski 0
+		IsThisModelAHeli 0
+		IsThisModelAQuadbike 0
+		IsThisModelABike 0
+		classfromname 14
+		IsThisModelABoat 1
+	}
+	Item
+	{
+		IsThisModelATrain 0
+		model 1033245328
+		class 14
+		IsThisModelABicycle 0
+		IsThisModelAPlane 0
+		IsThisModelACar 0
+		type 2
+		poptype 7
+		IsThisModelAnAmphibiousQuadbike 0
+		displaynamefrommodel DINGHY
+		IsThisModelAnAmphibiousCar 0
+		isenginerunning 1
+		isempty 0
+		IsThisModelAJetski 0
+		IsThisModelAHeli 0
+		IsThisModelAQuadbike 0
+		IsThisModelABike 0
+		classfromname 14
+		IsThisModelABoat 1
+	}
+	Item
+	{
+		IsThisModelATrain 0
+		model 276773164
+		class 14
+		IsThisModelABicycle 0
+		IsThisModelAPlane 0
+		IsThisModelACar 0
+		type 2
+		poptype 7
+		IsThisModelAnAmphibiousQuadbike 0
+		displaynamefrommodel DINGHY
+		IsThisModelAnAmphibiousCar 0
+		isenginerunning 1
+		isempty 0
+		IsThisModelAJetski 0
+		IsThisModelAHeli 0
+		IsThisModelAQuadbike 0
+		IsThisModelABike 0
+		classfromname 14
+		IsThisModelABoat 1
+	}
+	Item
+	{
+		IsThisModelATrain 0
+		model 861409633
+		class 14
+		IsThisModelABicycle 0
+		IsThisModelAPlane 0
+		IsThisModelACar 0
+		type 2
+		poptype 7
+		IsThisModelAnAmphibiousQuadbike 0
+		displaynamefrommodel JETMAX
+		IsThisModelAnAmphibiousCar 0
+		isenginerunning 1
+		isempty 0
+		IsThisModelAJetski 0
+		IsThisModelAHeli 0
+		IsThisModelAQuadbike 0
+		IsThisModelABike 0
+		classfromname 14
+		IsThisModelABoat 1
+	}
+	Item
+	{
+		IsThisModelATrain 0
+		model 290013743
+		class 14
+		IsThisModelABicycle 0
+		IsThisModelAPlane 0
+		IsThisModelACar 0
+		type 2
+		poptype 7
+		IsThisModelAnAmphibiousQuadbike 0
+		displaynamefrommodel TROPIC
+		IsThisModelAnAmphibiousCar 0
+		isenginerunning 1
+		isempty 0
+		IsThisModelAJetski 0
+		IsThisModelAHeli 0
+		IsThisModelAQuadbike 0
+		IsThisModelABike 0
+		classfromname 14
+		IsThisModelABoat 1
+	}
+	Item
+	{
+		IsThisModelATrain 0
+		model -1030275036
+		class 14
+		IsThisModelABicycle 0
+		IsThisModelAPlane 0
+		IsThisModelACar 0
+		type 2
+		poptype 7
+		IsThisModelAnAmphibiousQuadbike 0
+		displaynamefrommodel SEASHARK
+		IsThisModelAnAmphibiousCar 0
+		isenginerunning 1
+		isempty 0
+		IsThisModelAJetski 1
+		IsThisModelAHeli 0
+		IsThisModelAQuadbike 0
+		IsThisModelABike 0
+		classfromname 14
+		IsThisModelABoat 1
+	}
+	Item
+	{
+		IsThisModelATrain 0
+		model -616331036
+		class 14
+		IsThisModelABicycle 0
+		IsThisModelAPlane 0
+		IsThisModelACar 0
+		type 2
+		poptype 7
+		IsThisModelAnAmphibiousQuadbike 0
+		displaynamefrommodel SEASHARK
+		IsThisModelAnAmphibiousCar 0
+		isenginerunning 1
+		isempty 0
+		IsThisModelAJetski 1
+		IsThisModelAHeli 0
+		IsThisModelAQuadbike 0
+		IsThisModelABike 0
+		classfromname 14
+		IsThisModelABoat 1
+	}
+	Item
+	{
+		IsThisModelATrain 0
+		model -282946103
+		class 14
+		IsThisModelABicycle 0
+		IsThisModelAPlane 0
+		IsThisModelACar 0
+		type 2
+		poptype 7
+		IsThisModelAnAmphibiousQuadbike 0
+		displaynamefrommodel SUNTRAP
+		IsThisModelAnAmphibiousCar 0
+		isenginerunning 1
+		isempty 0
+		IsThisModelAJetski 0
+		IsThisModelAHeli 0
+		IsThisModelAQuadbike 0
+		IsThisModelABike 0
+		classfromname 14
+		IsThisModelABoat 1
+	}
+	Item
+	{
+		IsThisModelATrain 0
+		model 231083307
+		class 14
+		IsThisModelABicycle 0
+		IsThisModelAPlane 0
+		IsThisModelACar 0
+		type 2
+		poptype 7
+		IsThisModelAnAmphibiousQuadbike 0
+		displaynamefrommodel SPEEDER
+		IsThisModelAnAmphibiousCar 0
+		isenginerunning 1
+		isempty 0
+		IsThisModelAJetski 0
+		IsThisModelAHeli 0
+		IsThisModelAQuadbike 0
+		IsThisModelABike 0
+		classfromname 14
+		IsThisModelABoat 1
+	}
+	Item
+	{
+		IsThisModelATrain 0
+		model -339587598
+		class 15
+		IsThisModelABicycle 0
+		IsThisModelAPlane 0
+		IsThisModelACar 0
+		type 2
+		poptype 7
+		IsThisModelAnAmphibiousQuadbike 0
+		displaynamefrommodel SWIFT
+		IsThisModelAnAmphibiousCar 0
+		isenginerunning 0
+		isempty 0
+		IsThisModelAJetski 0
+		IsThisModelAHeli 1
+		IsThisModelAQuadbike 0
+		IsThisModelABike 0
+		classfromname 15
+		IsThisModelABoat 0
+	}
+	Item
+	{
+		IsThisModelATrain 0
+		model 509498602
+		class 14
+		IsThisModelABicycle 0
+		IsThisModelAPlane 0
+		IsThisModelACar 0
+		type 2
+		poptype 7
+		IsThisModelAnAmphibiousQuadbike 0
+		displaynamefrommodel DINGHY
+		IsThisModelAnAmphibiousCar 0
+		isenginerunning 1
+		isempty 0
+		IsThisModelAJetski 0
+		IsThisModelAHeli 0
+		IsThisModelAQuadbike 0
+		IsThisModelABike 0
+		classfromname 14
+		IsThisModelABoat 1
+	}
+	Item
+	{
+		IsThisModelATrain 0
+		model -82626025
+		class 15
+		IsThisModelABicycle 0
+		IsThisModelAPlane 0
+		IsThisModelACar 0
+		type 2
+		poptype 7
+		IsThisModelAnAmphibiousQuadbike 0
+		displaynamefrommodel SAVAGE
+		IsThisModelAnAmphibiousCar 0
+		isenginerunning 0
+		isempty 0
+		IsThisModelAJetski 0
+		IsThisModelAHeli 1
+		IsThisModelAQuadbike 0
+		IsThisModelABike 0
+		classfromname 15
+		IsThisModelABoat 0
+	}
+	Item
+	{
+		IsThisModelATrain 0
+		model 1075432268
+		class 15
+		IsThisModelABicycle 0
+		IsThisModelAPlane 0
+		IsThisModelACar 0
+		type 2
+		poptype 7
+		IsThisModelAnAmphibiousQuadbike 0
+		displaynamefrommodel SWIFT2
+		IsThisModelAnAmphibiousCar 0
+		isenginerunning 0
+		isempty 0
+		IsThisModelAJetski 0
+		IsThisModelAHeli 1
+		IsThisModelAQuadbike 0
+		IsThisModelABike 0
+		classfromname 15
+		IsThisModelABoat 0
+	}
+	Item
+	{
+		IsThisModelATrain 0
+		model 1070967343
+		class 14
+		IsThisModelABicycle 0
+		IsThisModelAPlane 0
+		IsThisModelACar 0
+		type 2
+		poptype 7
+		IsThisModelAnAmphibiousQuadbike 0
+		displaynamefrommodel TORO
+		IsThisModelAnAmphibiousCar 0
+		isenginerunning 1
+		isempty 0
+		IsThisModelAJetski 0
+		IsThisModelAHeli 0
+		IsThisModelAQuadbike 0
+		IsThisModelABike 0
+		classfromname 14
+		IsThisModelABoat 1
+	}
+	Item
+	{
+		IsThisModelATrain 0
+		model 908897389
+		class 14
+		IsThisModelABicycle 0
+		IsThisModelAPlane 0
+		IsThisModelACar 0
+		type 2
+		poptype 7
+		IsThisModelAnAmphibiousQuadbike 0
+		displaynamefrommodel TORO
+		IsThisModelAnAmphibiousCar 0
+		isenginerunning 1
+		isempty 0
+		IsThisModelAJetski 0
+		IsThisModelAHeli 0
+		IsThisModelAQuadbike 0
+		IsThisModelABike 0
+		classfromname 14
+		IsThisModelABoat 1
+	}
+	Item
+	{
+		IsThisModelATrain 0
+		model -311022263
+		class 14
+		IsThisModelABicycle 0
+		IsThisModelAPlane 0
+		IsThisModelACar 0
+		type 2
+		poptype 7
+		IsThisModelAnAmphibiousQuadbike 0
+		displaynamefrommodel SEASHARK
+		IsThisModelAnAmphibiousCar 0
+		isenginerunning 1
+		isempty 0
+		IsThisModelAJetski 1
+		IsThisModelAHeli 0
+		IsThisModelAQuadbike 0
+		IsThisModelABike 0
+		classfromname 14
+		IsThisModelABoat 1
+	}
+	Item
+	{
+		IsThisModelATrain 0
+		model 867467158
+		class 14
+		IsThisModelABicycle 0
+		IsThisModelAPlane 0
+		IsThisModelACar 0
+		type 2
+		poptype 7
+		IsThisModelAnAmphibiousQuadbike 0
+		displaynamefrommodel DINGHY
+		IsThisModelAnAmphibiousCar 0
+		isenginerunning 1
+		isempty 0
+		IsThisModelAJetski 0
+		IsThisModelAHeli 0
+		IsThisModelAQuadbike 0
+		IsThisModelABike 0
+		classfromname 14
+		IsThisModelABoat 1
+	}
+	Item
+	{
+		IsThisModelATrain 0
+		model 1448677353
+		class 14
+		IsThisModelABicycle 0
+		IsThisModelAPlane 0
+		IsThisModelACar 0
+		type 2
+		poptype 7
+		IsThisModelAnAmphibiousQuadbike 0
+		displaynamefrommodel TROPIC
+		IsThisModelAnAmphibiousCar 0
+		isenginerunning 1
+		isempty 0
+		IsThisModelAJetski 0
+		IsThisModelAHeli 0
+		IsThisModelAQuadbike 0
+		IsThisModelABike 0
+		classfromname 14
+		IsThisModelABoat 1
+	}
+	Item
+	{
+		IsThisModelATrain 0
+		model 437538602
+		class 14
+		IsThisModelABicycle 0
+		IsThisModelAPlane 0
+		IsThisModelACar 0
+		type 2
+		poptype 7
+		IsThisModelAnAmphibiousQuadbike 0
+		displaynamefrommodel SPEEDER
+		IsThisModelAnAmphibiousCar 0
+		isenginerunning 1
+		isempty 0
+		IsThisModelAJetski 0
+		IsThisModelAHeli 0
+		IsThisModelAQuadbike 0
+		IsThisModelABike 0
+		classfromname 14
+		IsThisModelABoat 1
+	}
+	Item
+	{
+		IsThisModelATrain 0
+		model 2025593404
+		class 15
+		IsThisModelABicycle 0
+		IsThisModelAPlane 0
+		IsThisModelACar 0
+		type 2
+		poptype 7
+		IsThisModelAnAmphibiousQuadbike 0
+		displaynamefrommodel CARGOBOB
+		IsThisModelAnAmphibiousCar 0
+		isenginerunning 0
+		isempty 0
+		IsThisModelAJetski 0
+		IsThisModelAHeli 1
+		IsThisModelAQuadbike 0
+		IsThisModelABike 0
+		classfromname 15
+		IsThisModelABoat 0
+	}
+	Item
+	{
+		IsThisModelATrain 0
+		model 710198397
+		class 15
+		IsThisModelABicycle 0
+		IsThisModelAPlane 0
+		IsThisModelACar 0
+		type 2
+		poptype 7
+		IsThisModelAnAmphibiousQuadbike 0
+		displaynamefrommodel SVOLITO
+		IsThisModelAnAmphibiousCar 0
+		isenginerunning 0
+		isempty 0
+		IsThisModelAJetski 0
+		IsThisModelAHeli 1
+		IsThisModelAQuadbike 0
+		IsThisModelABike 0
+		classfromname 15
+		IsThisModelABoat 0
+	}
+	Item
+	{
+		IsThisModelATrain 0
+		model -1671539132
+		class 15
+		IsThisModelABicycle 0
+		IsThisModelAPlane 0
+		IsThisModelACar 0
+		type 2
+		poptype 7
+		IsThisModelAnAmphibiousQuadbike 0
+		displaynamefrommodel SVOLITO2
+		IsThisModelAnAmphibiousCar 0
+		isenginerunning 0
+		isempty 0
+		IsThisModelAJetski 0
+		IsThisModelAHeli 1
+		IsThisModelAQuadbike 0
+		IsThisModelABike 0
+		classfromname 15
+		IsThisModelABoat 0
+	}
+	Item
+	{
+		IsThisModelATrain 0
+		model -1845487887
+		class 15
+		IsThisModelABicycle 0
+		IsThisModelAPlane 0
+		IsThisModelACar 0
+		type 2
+		poptype 7
+		IsThisModelAnAmphibiousQuadbike 0
+		displaynamefrommodel VOLATUS
+		IsThisModelAnAmphibiousCar 0
+		isenginerunning 0
+		isempty 0
+		IsThisModelAJetski 0
+		IsThisModelAHeli 1
+		IsThisModelAQuadbike 0
+		IsThisModelABike 0
+		classfromname 15
+		IsThisModelABoat 0
+	}
+	Item
+	{
+		IsThisModelATrain 0
+		model -2100640717
+		class 14
+		IsThisModelABicycle 0
+		IsThisModelAPlane 0
+		IsThisModelACar 0
+		type 2
+		poptype 7
+		IsThisModelAnAmphibiousQuadbike 0
+		displaynamefrommodel TUG
+		IsThisModelAnAmphibiousCar 0
+		isenginerunning 1
+		isempty 0
+		IsThisModelAJetski 0
+		IsThisModelAHeli 0
+		IsThisModelAQuadbike 0
+		IsThisModelABike 0
+		classfromname 14
+		IsThisModelABoat 1
+	}
+	Item
+	{
+		IsThisModelATrain 0
+		model 1181327175
+		class 15
+		IsThisModelABicycle 0
+		IsThisModelAPlane 0
+		IsThisModelACar 0
+		type 2
+		poptype 7
+		IsThisModelAnAmphibiousQuadbike 0
+		displaynamefrommodel AKULA
+		IsThisModelAnAmphibiousCar 0
+		isenginerunning 0
+		isempty 0
+		IsThisModelAJetski 0
+		IsThisModelAHeli 1
+		IsThisModelAQuadbike 0
+		IsThisModelABike 0
+		classfromname 15
+		IsThisModelABoat 0
+	}
+	Item
+	{
+		IsThisModelATrain 0
+		model 1489874736
+		class 19
+		IsThisModelABicycle 0
+		IsThisModelAPlane 0
+		IsThisModelACar 0
+		type 2
+		poptype 7
+		IsThisModelAnAmphibiousQuadbike 0
+		displaynamefrommodel THRUSTER
+		IsThisModelAnAmphibiousCar 0
+		isenginerunning 0
+		isempty 0
+		IsThisModelAJetski 0
+		IsThisModelAHeli 1
+		IsThisModelAQuadbike 0
+		IsThisModelABike 0
+		classfromname 19
+		IsThisModelABoat 0
+	}
+	Item
+	{
+		IsThisModelATrain 0
+		model -1984275979
+		class 15
+		IsThisModelABicycle 0
+		IsThisModelAPlane 0
+		IsThisModelACar 0
+		type 2
+		poptype 7
+		IsThisModelAnAmphibiousQuadbike 0
+		displaynamefrommodel HAVOK
+		IsThisModelAnAmphibiousCar 0
+		isenginerunning 0
+		isempty 0
+		IsThisModelAJetski 0
+		IsThisModelAHeli 1
+		IsThisModelAQuadbike 0
+		IsThisModelABike 0
+		classfromname 15
+		IsThisModelABoat 0
+	}
+	Item
+	{
+		IsThisModelATrain 0
+		model -42959138
+		class 15
+		IsThisModelABicycle 0
+		IsThisModelAPlane 0
+		IsThisModelACar 0
+		type 2
+		poptype 7
+		IsThisModelAnAmphibiousQuadbike 0
+		displaynamefrommodel HUNTER
+		IsThisModelAnAmphibiousCar 0
+		isenginerunning 0
+		isempty 0
+		IsThisModelAJetski 0
+		IsThisModelAHeli 1
+		IsThisModelAQuadbike 0
+		IsThisModelABike 0
+		classfromname 15
+		IsThisModelABoat 0
+	}
+}
+Total 38:
+classfromname(19):1
+classfromname(14):18
+classfromname(15):19
+poptype(7):38
+IsThisModelAJetski(1):3
+class(19):1
+class(14):18
+class(15):19
+IsThisModelABoat(1):18
+isenginerunning(1):18
+type(2):38
+IsThisModelAHeli(1):20

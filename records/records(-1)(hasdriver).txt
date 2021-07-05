@@ -1,0 +1,124 @@
+Version 1 30 Research Title : GetRandomVehicleInSphere flags results By Negbook
+Total:5 Flags:-1 
+{
+	Item
+	{
+		IsThisModelATrain 0
+		model 837858166
+		class 15
+		IsThisModelABicycle 0
+		IsThisModelAPlane 0
+		IsThisModelACar 0
+		type 2
+		poptype 7
+		IsThisModelAnAmphibiousQuadbike 0
+		displaynamefrommodel ANNIHL
+		IsThisModelAnAmphibiousCar 0
+		isenginerunning 0
+		isempty 0
+		IsThisModelAJetski 0
+		IsThisModelAHeli 1
+		IsThisModelAQuadbike 0
+		IsThisModelABike 0
+		classfromname 15
+		IsThisModelABoat 0
+	}
+	Item
+	{
+		IsThisModelATrain 0
+		model 353883353
+		class 15
+		IsThisModelABicycle 0
+		IsThisModelAPlane 0
+		IsThisModelACar 0
+		type 2
+		poptype 7
+		IsThisModelAnAmphibiousQuadbike 0
+		displaynamefrommodel POLMAV
+		IsThisModelAnAmphibiousCar 0
+		isenginerunning 0
+		isempty 0
+		IsThisModelAJetski 0
+		IsThisModelAHeli 1
+		IsThisModelAQuadbike 0
+		IsThisModelABike 0
+		classfromname 15
+		IsThisModelABoat 0
+	}
+	Item
+	{
+		IsThisModelATrain 0
+		model -488123221
+		class 14
+		IsThisModelABicycle 0
+		IsThisModelAPlane 0
+		IsThisModelACar 0
+		type 2
+		poptype 7
+		IsThisModelAnAmphibiousQuadbike 0
+		displaynamefrommodel PREDATOR
+		IsThisModelAnAmphibiousCar 0
+		isenginerunning 1
+		isempty 0
+		IsThisModelAJetski 0
+		IsThisModelAHeli 0
+		IsThisModelAQuadbike 0
+		IsThisModelABike 0
+		classfromname 14
+		IsThisModelABoat 1
+	}
+	Item
+	{
+		IsThisModelATrain 0
+		model -1600252419
+		class 15
+		IsThisModelABicycle 0
+		IsThisModelAPlane 0
+		IsThisModelACar 0
+		type 2
+		poptype 7
+		IsThisModelAnAmphibiousQuadbike 0
+		displaynamefrommodel VALKYRIE
+		IsThisModelAnAmphibiousCar 0
+		isenginerunning 0
+		isempty 0
+		IsThisModelAJetski 0
+		IsThisModelAHeli 1
+		IsThisModelAQuadbike 0
+		IsThisModelABike 0
+		classfromname 15
+		IsThisModelABoat 0
+	}
+	Item
+	{
+		IsThisModelATrain 0
+		model 1543134283
+		class 15
+		IsThisModelABicycle 0
+		IsThisModelAPlane 0
+		IsThisModelACar 0
+		type 2
+		poptype 7
+		IsThisModelAnAmphibiousQuadbike 0
+		displaynamefrommodel VALKYRI2
+		IsThisModelAnAmphibiousCar 0
+		isenginerunning 0
+		isempty 0
+		IsThisModelAJetski 0
+		IsThisModelAHeli 1
+		IsThisModelAQuadbike 0
+		IsThisModelABike 0
+		classfromname 15
+		IsThisModelABoat 0
+	}
+}
+Total 5:
+classfromname(14):1
+classfromname(15):4
+poptype(7):5
+class(14):1
+class(15):4
+IsThisModelABoat(1):1
+isenginerunning(1):1
+type(2):5
+IsThisModelAHeli(1):4
